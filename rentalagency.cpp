@@ -41,6 +41,7 @@ public:
     {
     }
 
+  
     // calculate rental cost
 
     double calculaterentalcost(int days) override
